@@ -1,7 +1,5 @@
 # Fashion-Store-Data-Analysis-Project
 
-# Fashion Store Data Analysis
-
 This repository contains a detailed data analysis project performed on sales data from a fashion store. The objective of this project is to extract actionable business insights using Microsoft Excel and present them in a structured report.
 
 # Project Objective
